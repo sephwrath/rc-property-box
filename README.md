@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rc-property-box
 
 This README outlines the details of collaborating on this Ember addon.
@@ -23,3 +24,6 @@ This README outlines the details of collaborating on this Ember addon.
 * `ember build`
 
 For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+=======
+# rc-property-box
+>>>>>>> 039587c5ce53e7177c290d0395761b85c1c98867
