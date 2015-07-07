@@ -1,0 +1,58 @@
+/* Styles for the property grid */
+.rccPropButtons {
+  padding: 5px;
+  background-color: white;
+  text-align: right;
+}
+.rccPropertyBox {
+  position: relative;
+  padding: 0px 0px;
+  width: 100%;
+}
+      
+.rccPropRow {
+  width: 100%;
+  /* overflow: hidden; */
+  background-color: #dddddd;
+  border: 1px solid gray;
+}
+
+.rccPropSelector {
+  position: absolute;
+  width: 3px;
+  height: 100%;
+  top: 0px;
+  left: 200px;
+  cursor: ew-resize;
+}
+
+.rccProdCellL {
+  height: 20px;
+  font-size: 8pt;
+  width: 200px;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  /* float: left; */
+  text-align: right;
+  font-weight: bold;
+  padding-right: 2%;
+  border-left: 1px solid gray;
+}
+
+.rccProdCellR {
+  position: relative;
+  right: 0px;
+  height: 20px;
+  font-size: 8pt;
+    
+}
+        
+input[type="text"].prodInput 
+{
+  width: 100%;
+  height: 19px;
+  line-height: 18px;
+}​
+
+.spacer {}
+
+
